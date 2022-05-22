@@ -1,16 +1,31 @@
-### Hi there 👋
+### ☺️ About Me
+- He/Him
+- 19
+- First Year Student at IIT Roorkee (Computer Science and Engineering) 
+- Member of [DSG (IIT Roorkee)](https://github.com/dsgiitr)
+- Abu Road, Rajasthan, India
 
-<!--
-**sanidhyas3s/sanidhyas3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---------------------------------
+### 📈 Looking to Learn
+- Machine Learning
+  -  Reinforcement Learning
+  -  Deep Learning
+- Open Source
+- Web Development
 
-Here are some ideas to get you started:
+---------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyas3s&layout=compact)](https://github.com/sanidhyas3s/github-readme-stats) 
+
+[![Sanidhya's github stats](https://github-readme-stats.vercel.app/api?username=sanidhyas3s&hide=stars&show_icons=true)](https://github.com/sanidhyas3s/github-readme-stats)
+
+---------------------------------
+### 📸 Social Media
+***@sanidhyas3s*** everywhere.
+
+---------------------------------
+### ✨ Other Interests
+- Photography
+- Graphic Designing
+- Sports (Football, Badminton & Cricket)
+- Hip-Hop Music
