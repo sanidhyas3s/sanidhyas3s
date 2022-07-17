@@ -8,8 +8,6 @@
 ---------------------------------
 ### 📈 Looking to Learn
 - Machine Learning
-  -  Reinforcement Learning
-  -  Deep Learning
 - Open Source
 - Web Development
 
