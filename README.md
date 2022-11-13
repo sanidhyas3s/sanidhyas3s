@@ -1,5 +1,4 @@
 ### ☺️ About Me
-- He/Him
 - 19
 - First Year Student at IIT Roorkee (Computer Science and Engineering) 
 - Member of [DSG (IIT Roorkee)](https://github.com/dsgiitr)
@@ -9,7 +8,7 @@
 ### 📈 Looking to Learn
 - Machine Learning
 - Open Source
-- Web Development
+- Development
 
 ---------------------------------
 
