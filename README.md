@@ -1,13 +1,13 @@
 ### ☺️ About Me
 - 20
-- First Year Student at IIT Roorkee (Computer Science and Engineering) 
+- Computer Science and Engineering Student at IIT Roorkee
 - Member of [DSG (IIT Roorkee)](https://github.com/dsgiitr)
 - Abu Road, Rajasthan, India
 
 ---------------------------------
 ### 📈 Looking to Learn
-- Machine Learning
 - Open Source
+- Machine Learning
 - Development
 
 ---------------------------------
