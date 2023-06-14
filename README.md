@@ -14,7 +14,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyas3s&layout=compact&hide=kotlin,swift,objective-c)](https://github.com/sanidhyas3s/github-readme-stats)  -->
 
-[![Sanidhya's github stats](https://github-readme-stats.vercel.app/api?username=sanidhyas3s&hide=stars&show_icons=true)](https://github.com/sanidhyas3s/github-readme-stats)
+![Sanidhya's github stats](https://github-readme-stats.vercel.app/api?username=sanidhyas3s&hide=stars&show_icons=true)
 
 ---------------------------------
 ### 📸 Social Media
