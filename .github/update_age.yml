@@ -1,0 +1,40 @@
+name: Update Age
+
+on:
+  schedule:
+    - cron: "30 7 14 JUN *"
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v2
+        
+      - name: Update Age
+        run: |
+          birth_year=2003
+          birth_month=03
+          birth_day=03
+
+          current_date=$(date +"%Y-%m-%d")
+          current_year=$(date -d $current_date +"%Y")
+          current_month=$(date -d $current_date +"%m")
+          current_day=$(date -d $current_date +"%d")
+
+          age=$((current_year - birth_year))
+
+          if [[ $current_month -lt $birth_month || ($current_month -eq $birth_month && $current_day -lt $birth_day) ]]; then
+            age=$((age - 1))
+          fi
+
+          # Update the age in the README file
+          sed -i 's/<!--AGE-->[0-9]\+<!--\/AGE-->/<!--AGE-->'"$age"'<!--\/AGE-->/g' README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -am "A year wiser!"
+          git push
