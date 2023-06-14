@@ -2,7 +2,7 @@ name: Update Age
 
 on:
   schedule:
-    - cron: "30 7 14 JUN *"
+    - cron: "40 7 14 JUN *"
 
 jobs:
   update-age:
