@@ -2,7 +2,7 @@ name: Update Age
 
 on:
   schedule:
-    - cron: "03 03 03 MAR *"
+    - cron: "35 22 * * *"
             #Ignoring Time Zones because then we would be needed to adjust the script as well
             #Also just leaving the extra 03's out there for fun!
 
