@@ -13,7 +13,10 @@ jobs:
     steps:
       - name: Set up Git repository
         uses: actions/checkout@v2
-        
+      
+      - name: Pull latest changes
+        run: git pull
+
       - name: Update Age
         run: |
           birth_year=2003
