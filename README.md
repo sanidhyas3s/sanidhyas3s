@@ -8,7 +8,7 @@
 ### 📈 Looking to Learn
 - Open Source
 - Machine Learning
-- Development
+- Algorithms
 
 ---------------------------------
 
