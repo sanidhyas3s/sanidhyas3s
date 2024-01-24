@@ -2,11 +2,12 @@
 - <!--AGE-->20<!--/AGE-->
 - Computer Science and Engineering Student at IIT Roorkee
 - Member of [DSG (IIT Roorkee)](https://github.com/dsgiitr)
+- Google Summer of Code 2023 at [Inkscape](https://summerofcode.withgoogle.com/programs/2023/projects/t7Xn0iW6)
 - Abu Road, Rajasthan, India
 
 ---------------------------------
 ### 📈 Looking to Learn
-- Open Source
+- Open Source Development
 - Machine Learning
 - Algorithms
 
@@ -24,5 +25,5 @@
 ### ✨ Other Interests
 - Photography
 - Graphic Designing
-- Sports (Football, Badminton & Cricket)
+- Sports
 - Hip-Hop Music
